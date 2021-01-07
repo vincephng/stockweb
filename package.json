@@ -1,0 +1,22 @@
+{
+  "name": "stockweb",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "dev": "nodemon main"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Phuc Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
